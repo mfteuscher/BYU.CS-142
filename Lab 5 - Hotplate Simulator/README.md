@@ -4,7 +4,8 @@
 
 This program simulates the heating of a metal plate. A metal plate will heat up, and the temperature will be constantly
 changing for separate parts of the plate. When the plate finally stabilizes in temperature, the loops end, and the
-results are output to a file. This lab is mostly for the purpose of understanding loops.
+results are output to a file. There is also an input file feature that is for testing purposes, to make sure the program
+works for different situations This lab is mostly for the purpose of understanding loops.
 
 ### Background
 
